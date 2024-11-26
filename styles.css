@@ -1,0 +1,31 @@
+table.table-bordered td, table.table-bordered th {
+    padding: 20px; 
+    border-radius: 10px;
+}
+
+body {
+  text-align: center;
+  background-color: darkgray;
+}
+
+img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+h2 {
+  font-size: 40px;
+  color: #F0B90B;
+  background-color: grey;
+  padding: 4px; 
+  border-radius: 10px;
+}
+
+p {
+  font-size: 60px;
+  color: white;
+  background-color: grey;
+  max-width: 100%;
+  padding: 4px; 
+  border-radius: 10px;
+}
